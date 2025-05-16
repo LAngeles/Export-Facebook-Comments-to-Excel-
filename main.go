@@ -21,7 +21,7 @@ type Comment struct {
 }
 
 func main() {
-	// postURL := "https://web.facebook.com/photo/?fbid=1298842747871125&set=a.835084834246921"
+	// postURL := "https://www.facebook.com/photo?fbid=10161662326021549&set=gm.1798966144285653&idorvanity=1197390054443268&locale=lt_LT"
 	// _, page := utils.Login("", "", postURL)
 	chromiumPath := "/usr/bin/google-chrome"
 	postURL := "https://web.facebook.com/photo/?fbid=122155001240351922&set=gm.1856407561794726&idorvanity=1280557499379738"
